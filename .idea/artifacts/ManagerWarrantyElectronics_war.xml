@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ManagerWarrantyElectronics:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ManagerWarrantyElectronics</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ManagerWarrantyElectronics-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ManagerWarrantyElectronics:war exploded" />
+    </root>
+  </artifact>
+</component>
